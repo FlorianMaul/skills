@@ -1,0 +1,10 @@
+{
+  "name": "skills",
+  "version": "0.1.0",
+  "description": "Florian Maul's personal Copilot CLI skills.",
+  "repository": "https://github.com/FlorianMaul/skills",
+  "license": "MIT",
+  "skills": [
+    "./session-in-repo"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "florianmaul",
+  "owner": {
+    "name": "Florian Maul"
+  },
+  "description": "Florian Maul's personal AI skills for GitHub Copilot CLI.",
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "Personal collection of Copilot CLI skills.",
+      "category": "engineering"
+    }
+  ]
+}
