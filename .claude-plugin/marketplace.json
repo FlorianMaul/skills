@@ -6,7 +6,7 @@
   "description": "Florian Maul's personal AI skills for GitHub Copilot CLI.",
   "plugins": [
     {
-      "name": "skills",
+      "name": "florianmaul-skills",
       "source": "./",
       "description": "Personal collection of Copilot CLI skills.",
       "category": "engineering"

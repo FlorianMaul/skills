@@ -1,1 +1,9 @@
-My own defined skills
+# Install
+
+```
+copilot plugin marketplace add florianmaul/skills
+```
+```
+copilot plugin install florianmaul-skills@florianmaul
+```
+

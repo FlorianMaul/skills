@@ -1,10 +1,15 @@
 {
-  "name": "skills",
+  "name": "florianmaul",
   "version": "0.1.0",
   "description": "Florian Maul's personal Copilot CLI skills.",
   "repository": "https://github.com/FlorianMaul/skills",
   "license": "MIT",
+  "keywords": [
+    "session",
+    "skills",
+    "repo"
+  ],
   "skills": [
-    "./session-in-repo"
+    "./skills/session-in-repo"
   ]
 }
